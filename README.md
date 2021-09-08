@@ -9,5 +9,5 @@ This repo was created for OCBC's UI/UX challenge (final assessment)
 |-------------------------------|---------------------------------------|
 |  BOOK-IT (Responses).xlsx     |  User Research: Interview Responses   |
 |  BOOK-IT design qn.docx       |  User Research: Interview questions   |
-|  Book-IT by OCBC Cinemas.pptx |  Product Presentation                 |
+|  BOOK-IT by OCBC Cinemas.pptx |  Product Presentation                 |
 |  Kanban.png                   |  Kanban board used for design process |
